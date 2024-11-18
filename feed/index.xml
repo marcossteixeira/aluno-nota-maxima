@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Colégio Monteiro Lobat</title>
+	<atom:link href="http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2Ffeed%2F%3Fsimply_static_page%3D3637" rel="self" type="application/rss+xml" />
+	<link>http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2F</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Nov 2024 16:33:44 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2F2024%2F11%2F15%2Fola-mundo%2F</link>
+					<comments>http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2F2024%2F11%2F15%2Fola-mundo%2F#comments</comments>
+		
+		<dc:creator><![CDATA[ascom]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 16:33:44 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2F%3Fp%3D1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://192.168.1.103:8080/concurso/?preview_id=83&preview_nonce=f7bfff00dd&preview=true%2F2024%2F11%2F15%2Fola-mundo%2Ffeed%2F</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
